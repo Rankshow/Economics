@@ -16,8 +16,16 @@ class Program
           double deficit = Convert.ToDouble(Console.ReadLine());
 
           double summary = CashAccount(capital, deficit);
-
-          Console.WriteLine($"Your cash account balance in our bank is {summary}");
+            
+            // ! Condition to check for low and high cash
+            if (summary < 5000)
+            {
+            Console.WriteLine($"Your cash account balance in our bank is {summary} and is very low.");
+            }
+            else
+            {
+            Console.WriteLine($"Your cash account balance in our bank of {summary} is very impressive.");
+            }
     }
 
     // * Initial accounting calculation of (CashAccount & FundAccount)
