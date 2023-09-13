@@ -13,3 +13,17 @@ C:\Users\CHIZZY STANLEOVIC\Desktop\Economics\obj\Debug\net7.0\refint\Economics.d
 C:\Users\CHIZZY STANLEOVIC\Desktop\Economics\obj\Debug\net7.0\Economics.pdb
 C:\Users\CHIZZY STANLEOVIC\Desktop\Economics\obj\Debug\net7.0\Economics.genruntimeconfig.cache
 C:\Users\CHIZZY STANLEOVIC\Desktop\Economics\obj\Debug\net7.0\ref\Economics.dll
+C:\Users\Micheal\Economics\bin\Debug\net7.0\Economics.exe
+C:\Users\Micheal\Economics\bin\Debug\net7.0\Economics.deps.json
+C:\Users\Micheal\Economics\bin\Debug\net7.0\Economics.runtimeconfig.json
+C:\Users\Micheal\Economics\bin\Debug\net7.0\Economics.dll
+C:\Users\Micheal\Economics\bin\Debug\net7.0\Economics.pdb
+C:\Users\Micheal\Economics\obj\Debug\net7.0\Economics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micheal\Economics\obj\Debug\net7.0\Economics.AssemblyInfoInputs.cache
+C:\Users\Micheal\Economics\obj\Debug\net7.0\Economics.AssemblyInfo.cs
+C:\Users\Micheal\Economics\obj\Debug\net7.0\Economics.csproj.CoreCompileInputs.cache
+C:\Users\Micheal\Economics\obj\Debug\net7.0\Economics.dll
+C:\Users\Micheal\Economics\obj\Debug\net7.0\refint\Economics.dll
+C:\Users\Micheal\Economics\obj\Debug\net7.0\Economics.pdb
+C:\Users\Micheal\Economics\obj\Debug\net7.0\Economics.genruntimeconfig.cache
+C:\Users\Micheal\Economics\obj\Debug\net7.0\ref\Economics.dll

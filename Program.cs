@@ -7,18 +7,18 @@ class Program
           Console.WriteLine($"Please, What is your name?");
           string? name = Console.ReadLine();
 
-          Console.WriteLine($"Good morning! {name}, You are welcome to our bank \n");
+          Console.WriteLine($"Good Evening! {name}, You are welcome to our bank. Let check your data. \n");
 
-          Console.WriteLine("Kindly input your capital data?");
-          double capital = Convert.ToDouble(Console.ReadLine());
+          Console.WriteLine("Kindly input your demand data?");
+          double demand = Convert.ToDouble(Console.ReadLine());
 
           Console.WriteLine("Kindly enter your deficit data");
-          double deficit = Convert.ToDouble(Console.ReadLine());
+          double supply = Convert.ToDouble(Console.ReadLine());
 
-          double summary = CashAccount(capital, deficit);
+          double summary = FundAccount(demand, supply);
             
-            // ! Condition to check for low and high cash
-            if (summary < 5000)
+            // * Condition to check for low and high cash
+            if (summary < 10000)
             {
             Console.WriteLine($"Your cash account balance in our bank is {summary} and is very low.");
             }
